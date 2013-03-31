@@ -7,7 +7,7 @@ This book is about how to build web applications in golang, author will have qui
 
 If there is anything unclear, feel free to ask me to rewrite a better translation.
 
-###Author Comments
+###Purpose
 Because I'm interested in web application development, so I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with golang in building web applications.
 
 - for those of you who are working with PHP/Python/Ruby, you will understand how to use golang to build a web application.
