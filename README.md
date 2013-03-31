@@ -3,10 +3,12 @@
 ###***Translator Comments***
 This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie).
 
-This book is about how to build web application in golang, author will have quick review of basic knowledge about golang in fisrt few chapters, but you are supposed to understand what is golang and what is a web application before you start reading. Just a nice warning, if you are completed new guy in programming, this is not the first book you should read. 
+This book is about how to build web applications in golang, author will have quick review of basic knowledge about golang in fisrt few chapters, but you are supposed to understand what is golang and what is a web application before you start reading. Just a nice warning, if you are completed new guy in programming, this is not the first book you should read. 
+
+If there is anything unclear, feel free to ask me to rewrite a better translation.
 
 ###Author Comments
-Because I'm interested in web application development, so I used my free time to write this book as open source version. It doesn't mean I have very good ability to build a web application; I would like to share what I've done with golang to build web applications.
+Because I'm interested in web application development, so I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with golang in building web applications.
 
 - for those of you who are working with PHP/Python/Ruby, you will understand how to use golang to build a web application.
 - for those of you who are working with C/C++, you will know how the web works.
