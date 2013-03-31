@@ -24,13 +24,13 @@ If you know what is QQ, join the group 259316004. If not, follow this [link](htt
 ###Acknowledgements
 Fitst, I have to thanks to people who are the members of Golang-China in QQ group 102319854, they are all very nice and helpful. Then, I need to thanks to following people who give great help when I was writing this book.
 
- - [四月份平民](https://plus.google.com/110445767383269817959) (review code)
+ - [四月份平民 April Citizen](https://plus.google.com/110445767383269817959) (review code)
  - [Hong Ruiqi](https://github.com/hongruiqi) (review code)
  - [BianJiang](https://github.com/border) (write the chapter about setting golang development tools, which are Vim and Emacs)
  - [Oling Cat](https://github.com/OlingCat)(review code)
  - [Wenlei Wu](mailto:spadesacn@gmail.com)(provide some pictures)
  - [polaris](https://github.com/polaris1119)(review whole book)
- - [雨痕](https://github.com/qyuhen)(review chapter2)
+ - [雨痕 Rain Trail](https://github.com/qyuhen)(review chapter2)
 
 ###License
 This book is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/), unless otherwise specified.
