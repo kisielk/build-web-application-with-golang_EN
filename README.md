@@ -10,8 +10,8 @@ If there is anything unclear, feel free to ask me to rewrite a better translatio
 ###Purpose
 Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with golang in building web applications.
 
-- for those of you who are working with PHP/Python/Ruby, you will understand how to use golang to build a web application.
-- for those of you who are working with C/C++, you will know how the web works.
+- For those of you who are working with PHP/Python/Ruby, you will understand how to use golang to build a web application.
+- For those of you who are working with C/C++, you will know how the web works.
 
 I believe the purpose of studying is sharing with others. The happiest thing in my life is sharing everything I've known with more people.
 
@@ -36,4 +36,4 @@ Fitst, I have to thanks to people who are the members of Golang-China in QQ grou
 This book is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/), unless otherwise specified.
 
 ###Start reading
-[Preface](./eBook/preface.md)
+[Directory](./eBook/preface.md)
