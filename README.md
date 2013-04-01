@@ -36,4 +36,4 @@ Fitst, I have to thanks to people who are the members of Golang-China in QQ grou
 This book is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/), unless otherwise specified.
 
 ###Start reading
-[Preface](./ebook/preface.md)
+[Preface](./eBook/preface.md)
